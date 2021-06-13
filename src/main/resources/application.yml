@@ -1,0 +1,7 @@
+bot:
+  name: MMFProjectBot
+  token:
+  chat-id:
+
+server:
+  port: 8083
